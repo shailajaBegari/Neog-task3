@@ -1,32 +1,23 @@
-# SHAILAJA PORTFOLIO 
-Hello.Hi
+# ABOUT QUIZE PROGRMES ::::
 
-Hi ,My name is shailaja .I came from Telangana. And I complted my Graduation .And now iam  complted python. and now iam learning javascript.
-# Iknow this languages:
-python
+# WHAT IS QUIZE?
 
-Html
+    A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects.
 
-Javascript
+    Quizzes can be used as a brief assessment in education and similar fields to measure growth in 
+    knowledge, abilities, or skills.
 
-Littile bit of css
-# Family Background:
-In my family Ten members are living.I have three eldre brothers and me and my mom and dad and my grandfather,and my elder brother have two childrens and second brother have one child.
+    They can also be televised for entertainment purposes, often in a game show format. 
 
-And my mother and father are doing feild work.
-my two elder brothers are doing argriculture work.
-my younger brother his is doing study. and his preparing for group2.
-# HOBBIES:
-My hobbies are reading books.
+    This is  one of the mind game.
 
-Singing songs.
+#   What is the important of quiz?
+    Quizzes encourage pupils' self awareness of progress and self assessment. By taking quizzes, pupils get instant feedback on their responses.
+    
+    And this can help them identify areas they need to develop themselves and highlight progress for them to be proud of.
 
-Watching news.
+# What are the rules of quiz?
+    In this i prepred one quize in that i am giving questions and options in that the options list and answer is equal means u r  marks point score is incrising . otherwise your loose  ur marks. 
 
-Intrested to learn something.
-# ROLE MODEL:
-My role model is Thomashalwa edision.I inspring alot. Because his never give up his work.
-His tried alot of times ivesting bulbs he tried 1000 times. But his never give up his life .
-That is the motivation for me aslo.
-
+    if two people are highest score then again its comparing marks two pepole then who persons score is hihest means that person win the quize.And the winner person send the screenshot of marks.
 
